@@ -1,13 +1,13 @@
 {
-    "name": "UFOVc",
-    "logo": "https://telegra.ph/file/7618711bbdb9f03ed989e.jpg",
+    "name": "LEVivc",
+    "logo": "https://telegra.ph/file/b2d621f8ab77f3525e322.jpg",
     "description": "UFO Music Voice Chat.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/MSaleMD/UFoVC",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
-            "description": "حط كود الجلســـة بتاعتــك !!",
+            "description": "حط كود الجلسة مالتك !!",
             "required": true
         },
         "BOT_TOKEN": {
@@ -20,29 +20,29 @@
             "value": ""
         },
         "BOT_USERNAME": {
-            "description": "يوزر نيــم بوتــك منغيــر -> @",
+            "description": "يوزر نيم بوتك بدون -> @",
             "required": true,
             "value": "C94_Bot"
         },
         "ASSISTANT_NAME": {
-            "description": "يوزر نيــم أسيستانتــ بوتـ منغيــر ->  @",
+            "description": "يوزر نيم مساعد بوتك بدون ->  @",
             "required": true,
             "value": "xU99U"
         },
         "BG_IMAGE": {
             "description": "خلــفية",
             "required": false,
-            "value": "https://telegra.ph/file/6d31d6b18722ce94521cb.jpg"
+            "value": "https://telegra.ph/file/b2d621f8ab77f3525e322.jpg"
         },
         "THUMB_IMG": {
-            "description": "سيبــها زي مهي عادي يبا -> bg_image",
+            "description": "عوفها ع حالها -> bg_image",
             "required": false,
-            "value": "https://telegra.ph/file/6d31d6b18722ce94521cb.jpg"
+            "value": "https://telegra.ph/file/b2d621f8ab77f3525e322.jpg"
         },
         "OWNER_NAME": {
-            "description": "حط يوزركـــ منغــير -> @",
+            "description": "حط يوزر حسابك الاساسي المطور بدون -> @",
             "required": false,
-            "value": "xU99U"
+            "value": "oobbbo"
         },
         "API_ID": {
             "description": "حــط App ID from my.telegram.org/apps",
@@ -53,7 +53,7 @@
             "required": true
         },
         "SUDO_USERS": {
-            "description": "قايــمة الســودو",
+            "description": "حط ايدي حسابك الاساسي المطور",
             "required": true
         },
         "DURATION_LIMIT": {
@@ -62,19 +62,19 @@
             "value": "60"
         },
         "PMPERMIT": {
-            "description": "سيــبها.",
+            "description": "عوفها ع حالها.",
             "required": false,
             "value": "ENABLE"
         },
         "UPDATES_CHANNEL": {
-            "description": "تحديثاتــ سورس يــوفـــو !!!",
+            "description": "تحديثات سورس ليفاي !!!",
             "required": false,
-            "value": "WzUserBoT"
+            "value": "LEVi_VC"
         },
         "GROUP_SUPPORT": {
-            "description": "جروبــ الدعــم",
+            "description": ";كروب الدعم",
             "required": false,
-            "value": "WzSuPPort"
+            "value": "HELP_LEVi"
         }
     },
     "buildpacks": [
